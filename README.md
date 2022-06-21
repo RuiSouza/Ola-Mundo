@@ -1,5 +1,8 @@
 # >>>Olá, Mundo!!!<<<
- Meu primeiro repositório do curso de Git e GitHub
+
+Este repositório é apenas para aprendizado (fins acadêmicos)
+
+Meu primeiro repositório do curso de Git e GitHub
 
 Repositório Criado durante uma aula ao vivo.
 
